@@ -1,0 +1,3 @@
+Gestión de usuarios - AIPVDA-5
+Registro de usuarios: nombre, correo, teléfono y contraseña.
+agregar filtros de seguridad
